@@ -3,6 +3,8 @@
 This repository provides a Colab-ready notebook to process and query PDF documents with the help of Large Language Models (LLMs).  
 It also includes optional integration with [Pinecone](https://www.pinecone.io/) for vector storage.
 
+If you're interested in industry level RAG system, please take a look at [Datawhale - All in RAG](https://github.com/datawhalechina/all-in-rag/blob/main/README_en.md) project for more interesting practice. 
+
 ---
 
 ## 🚀 Features
